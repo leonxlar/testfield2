@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\fabric-texture_(72).jpg
+map_Kd https://github.com/leonxlar/testfield2/blob/master/fabric-texture_(72).jpg?raw=true
 
 newmtl Материал.002
 Ns 0.000000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\fabric-texture_(72).jpg
+map_Kd https://github.com/leonxlar/testfield2/blob/master/fabric-texture_(72).jpg?raw=true
 
 newmtl Материал.003
 Ns 225.000000
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\fabric-texture_(72).jpg
+map_Kd https://github.com/leonxlar/testfield2/blob/master/fabric-texture_(72).jpg?raw=true
 
 newmtl Материал.004
 Ns 323.999994
