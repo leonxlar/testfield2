@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/a36/400_400_1/a3691ec09f2c4d2fd8d3ecc095fde325.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 newmtl Материал
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/a36/400_400_1/a3691ec09f2c4d2fd8d3ecc095fde325.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.001
 Ns 0.000000
@@ -31,7 +31,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/a36/400_400_1/a3691ec09f2c4d2fd8d3ecc095fde325.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.003
 Ns 0.000000
@@ -42,7 +42,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/a36/400_400_1/a3691ec09f2c4d2fd8d3ecc095fde325.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.004
 Ns 0.000000
@@ -53,8 +53,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/d26/400_400_1/d26fe5ec9d08b9663343249f0cea4480.jpg
-map_d https://3djungle.ru/upload/resize_cache/iblock/d26/400_400_1/d26fe5ec9d08b9663343249f0cea4480.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 newmtl Материал.005
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -64,4 +64,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd https://3djungle.ru/upload/resize_cache/iblock/a36/400_400_1/a3691ec09f2c4d2fd8d3ecc095fde325.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20ткани%20%236687.jpg
