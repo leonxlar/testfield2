@@ -56,7 +56,7 @@ illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 newmtl Материал.005
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
