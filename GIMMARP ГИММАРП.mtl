@@ -1,7 +1,17 @@
 
 # Material Count: 6
 
-
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 newmtl Материал
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -10,7 +20,7 @@ Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 1
+illum 2
 map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 
@@ -22,7 +32,7 @@ Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 1
+illum 2
 map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 
@@ -34,7 +44,7 @@ Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 1
+illum 2
 map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 
@@ -46,7 +56,7 @@ Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 1
+illum 2
 map_Kd https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/testfield2/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 newmtl Материал.005
